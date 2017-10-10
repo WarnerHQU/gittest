@@ -1,4 +1,3 @@
 This is a git test!
 We try to new a branch!
-<<<<<<< HEAD
 add to branch master and xiefeng1!
